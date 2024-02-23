@@ -1,6 +1,6 @@
 ![Wave](https://github.com/UNordicc/UNordicc/blob/main/wave.gif)
 
-**Hi! I'm UNordic**
+# **Hi! I'm UNordic**
 
 ![Poland](https://github.com/UNordicc/UNordicc/blob/main/pl.png) ![Arch](https://github.com/UNordicc/UNordicc/blob/main/arch.png)
 
