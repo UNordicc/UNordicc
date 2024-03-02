@@ -9,3 +9,6 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/265102629082890240)](https://discord.com/users/265102629082890240)
+## #30NitesOfCode:
+  [Check out my progress in Codédex #30NitesOfCode!](https://www.codedex.io/@unordic/30-nites-of-code)  
+  ![@unordic #30NitesOfCode](https://www.codedex.io/api/petStatus?user=unordic)
